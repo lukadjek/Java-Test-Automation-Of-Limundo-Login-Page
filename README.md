@@ -4,7 +4,7 @@ Short description: As the name suggests, I am here delivering a login page test 
 Selenium WebDriver is my preferable tool in this project.
 Link to the login page that's being tested: https://www.limundo.com/Prijava
 
-The following automation test are included:
+The following automation tests are included:
 
 - Before the testing process begings, set up default configuration
 - Assert login page URL
