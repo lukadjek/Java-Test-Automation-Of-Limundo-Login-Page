@@ -6,7 +6,7 @@ Link to the login page that's being tested: https://www.limundo.com/Prijava
 
 The following automation tests are included:
 
-- Before the testing process begings, set up default configuration
+- Before the testing process begins, set up default configuration
 - Assert login page URL
 - Assert login page title
 - Assert login page logo
